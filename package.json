@@ -7,9 +7,12 @@
     "node": "6.9.2"
   },
   "scripts": {
+    "start": "nf start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "ejs": "2.5.5",
+    "express": "4.14.0",
     "foreman": "2.0.0"
   },
   "repository": {
