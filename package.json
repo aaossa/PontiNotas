@@ -1,0 +1,28 @@
+{
+    "name": "pontinotas",
+    "version": "0.0.1",
+    "description": "Ficha Academica Acumulada de la UC en .pdf",
+    "main": "index.js",
+    "engines": {
+        "node": "6.9.2"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aaossa/PontiNotas.git"
+    },
+    "keywords": [
+        "pontinotas",
+        "uc",
+        "pdf"
+    ],
+    "author": "Antonio Ossa <aaossa@uc.cl> (http://aaossa.github.io/)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/aaossa/PontiNotas/issues"
+    },
+    "homepage": "https://github.com/aaossa/PontiNotas#readme"
+}
